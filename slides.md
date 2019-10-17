@@ -229,7 +229,6 @@ NOTE: Первое, необходимо писать много однотип�
 
 - [BackstopJS](https://github.com/garris/BackstopJS)
 - [Gemini](https://github.com/gemini-testing/gemini) / [Hermione](https://github.com/gemini-testing/hermione)
-- [Muppeteer](https://github.com/HuddleEng/Muppeteer)
 - [Loki](https://github.com/oblador/loki)
 
 https://github.com/mojoaxel/awesome-regression-testing
@@ -272,12 +271,6 @@ TODO
 NOTE: Mocha как парсер тестов WUT?
 
 NOTE: расписать под каждое решение
-
----
-
-## Muppeteer
-
-TODO
 
 ---
 

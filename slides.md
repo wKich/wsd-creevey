@@ -4,7 +4,7 @@ revealOptions:
   controls: false
 ---
 
-<link href="https://fonts.googleapis.com/css?family=**Roboto**&display=swap" rel="stylesheet">
+<link href="/Roboto-Regular.ttf" rel="stylesheet">
 
 ## Гарри Поттер
 
